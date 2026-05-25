@@ -1,0 +1,16 @@
+id_produto,nome_produto,categoria,quantidade_estoque,quantidade_minima,unidade,preco_unitario,fornecedor,ultima_atualizacao,linha_producao,status
+1001,Parafuso M8x20,Fixadores,1520,500,un,0.45,Metalúrgica Jaú,2024-05-01,Linha A,OK
+1002,Rolamento 6205,Mancais,87,50,un,18.90,RotaBrasil,2024-05-02,Linha B,OK
+1003,Correia V A-42,Transmissão,12,30,un,34.50,TransBelt,2024-05-01,Linha A,ABAIXO_MINIMO
+1004,Óleo Lubrificante 20W,Lubrificantes,200,100,lt,12.30,LubroMax,2024-04-28,Linha C,OK
+1005,Chave de Fenda 6mm,Ferramentas,3,20,un,8.75,FerraTool,2024-05-03,Linha B,ABAIXO_MINIMO
+1006,Porca M8,Fixadores,3400,1000,un,0.18,Metalúrgica Jaú,2024-05-01,Linha A,OK
+1007,Filtro de Ar Industrial,Filtros,45,40,un,56.00,AirFilter SP,2024-04-30,Linha C,OK
+1008,Cabo Elétrico 2.5mm,Elétrica,310,150,m,4.20,ElétricaBR,2024-05-02,Linha B,OK
+1009,Válvula Solenóide 1/2,Pneumática,6,15,un,98.00,PneumaBR,2024-05-01,Linha A,ABAIXO_MINIMO
+1010,Sensor de Temperatura PT100,Instrumentação,2,10,un,145.00,SensorTech,2024-04-29,Linha C,ABAIXO_MINIMO
+1011,Luva de Segurança Nitrila,EPI,95,80,par,6.50,SafeWork,2024-05-03,Geral,OK
+1012,Parafuso M6x15,Fixadores,890,300,un,0.32,Metalúrgica Jaú,2024-05-01,Linha A,OK
+1013,Motor Elétrico 0.5cv,Motores,4,5,un,420.00,MotorBR,2024-04-27,Linha B,ABAIXO_MINIMO
+1014,Mangueira Pneumática 6mm,Pneumática,75,50,m,3.80,PneumaBR,2024-05-02,Linha C,OK
+1015,Relé Temporizador 24V,Elétrica,18,15,un,67.00,ElétricaBR,2024-05-03,Linha B,OK

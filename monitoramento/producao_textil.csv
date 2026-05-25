@@ -1,0 +1,7 @@
+ID,maquina,turno,pecas_produzidas,data
+1,Tear-01,Manhã,1200,2026-05-25
+2,Tear-02,Manhã,980,2026-05-25
+3,Tear-03,Tarde,1500,2026-05-25
+4,Tear-01,Noite,1100,2026-05-25
+5,Tear-02,Tarde,1340,2026-05-25
+6,Tear-03,Noite,1700,2026-05-25
